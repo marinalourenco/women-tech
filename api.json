@@ -1,0 +1,22 @@
+{"women":[{
+  "id": 1,
+  "image": "ada",
+  "name":  "Ada  Lovelace",
+  "desc": "A mãe da computação",
+  "desc_complete":"Augusta Ada King, condessa de Lovelace, batizada Augusta Ada Byron em 10 de dezembro de 1815, mais tarde veio a ser conhecida simplesmente como Ada Lovelace. Hoje, ela é celebrada como a primeira programadora do mundo – a primeira pessoa a casar as capacidades matemáticas de máquinas computacionais com as possibilidades poéticas da lógica simbólica aplicada com imaginação. Essa combinação peculiar foi o produto da forma igualmente peculiar em que foi criada."
+},
+{
+  "id": 2,
+  "image": "grace",
+  "name": "Grace Hopper",
+  "desc": "Criou a primeira linguagem complexa de computador, o COBOL.",
+  "desc_complete": "Grace Murray Hopper nasceu em 1906, em Nova York, nos Estados Unidos. Ela formou-se em Matemática e Física em 1928, terminou o mestrado em 1930 e, em 1934, concluiu o doutorado em matemática."
+},
+{
+  "id": 3,
+  "image": "mary",
+  "name": "Mary Jackson",
+  "desc": "A primeira engenheira negra da NASA.",
+  "desc_complete": "Mary Jackson nasceu em Hampton, uma cidade no Estado da Virgínia, a 300 km de Washington, DC. Hampton é uma cidade de maioria negra (51% da população), e abriga uma instituição de ensino superior voltada a inclusão racial"
+  }
+]}
