@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from '../../Header';
-import Banners from '../../Banners';
 import Footer from '../../Footer';
 import './styles.css';
 import { useWomen } from '../../../hooks/WomenProvider'

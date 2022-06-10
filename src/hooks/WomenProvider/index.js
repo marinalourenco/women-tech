@@ -1,7 +1,7 @@
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import { getWomen } from '../services/women';
 
-// import { Container } from './styles';
+
 const WomenContext = createContext();
 
 function WomenProvider({children}) {
