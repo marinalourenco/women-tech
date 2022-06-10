@@ -5,18 +5,19 @@ import Footer from '../../Footer';
 import './styles.css';
 import { useWomen } from '../../../hooks/WomenProvider'
 import Container from '../../Container';
+import MaryContent from '../../MaryContent';
 
-function Home() {
+function Mary() {
   const { womenList } = useWomen()
   return (
     <React.Fragment>
       <Header women={womenList}/>
     <Container>
-      <Banners women={womenList} />
+     <MaryContent /> 
     </Container>
     <Footer/>
     </React.Fragment>
   );
 }
 
-export default Home;
+export default Mary;

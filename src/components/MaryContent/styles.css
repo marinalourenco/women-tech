@@ -1,0 +1,25 @@
+div.container{
+  margin-top: 15px;
+}
+
+img.image-mary{
+  width: auto;
+  height: auto;
+  padding: 20px;
+ 
+}
+
+h1.título{
+  margin: 0;
+  padding: 160px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3.subtítulo{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 40px, 40px;
+  padding: 10px;
+  font-size: 25px;
+  }
+

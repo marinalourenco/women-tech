@@ -56,3 +56,6 @@ header nav.menu ul li a{
 header nav.menu ul li a:hover{
   color: #FFC107;
 }
+header nav.menu ul li a.active{
+  color: #FFC107;
+}

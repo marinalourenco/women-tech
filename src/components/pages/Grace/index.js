@@ -5,18 +5,19 @@ import Footer from '../../Footer';
 import './styles.css';
 import { useWomen } from '../../../hooks/WomenProvider'
 import Container from '../../Container';
+import GraceContent from '../../GraceContent';
 
-function Home() {
+function Grace() {
   const { womenList } = useWomen()
   return (
     <React.Fragment>
       <Header women={womenList}/>
     <Container>
-      <Banners women={womenList} />
+      <GraceContent/>
     </Container>
     <Footer/>
     </React.Fragment>
   );
 }
 
-export default Home;
+export default Grace;
